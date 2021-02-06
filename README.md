@@ -1,4 +1,4 @@
-# MessageBird / Laravel Notifications
+# Messagebird / Laravel Notifications
 
 This package adds the ability to send notifications to WhatsApp, Facebook Messenger and SMS via MessageBird as a valid Laravel Notification, making life easier to utilise notifications and queueing.
 
